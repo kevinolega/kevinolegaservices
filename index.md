@@ -1,18 +1,21 @@
 ---
 layout: default
-description: Explore the homepage of Kevin Olega. Portfolio of personal and work projects and all sorts of fun information.
+description: Explore the services page of Kevin Olega. Portfolio of personal and work projects and all sorts of fun information.
 ---
-implementing:    [business ideas](http://businessideasph.com)
+selling:    [books](https://callcentertrainingtips.com/books)
 
-initiating:    [minimal changes](http://minimalchanges.com)
+offering:    [inexpensive English lessons](https://callcentertrainingtips.com/promos)
 
-documenting:    [call center training tips](http://callcentertrainingtips.com)
+offering:    [project management services](https://kevinolega.com/xp)
 
-exploring:  [philippines](http://philippineislandliving.com)
+offering:    [email marketing services](https://kevinolega.com/xp)
 
-twitter:    [kevinolega](https://twitter.com/kevinolega)
 
-photos: [instagram](https://instagram.com/kevinolega)
+promoting:    [local businesses](https://philippineislandliving.com)
+
+documenting:    [freelancers and services](https://businessideasph.com)
+
+personal:    [homepage](https://twitter.com/kevinolega)
 
 latest: [what I'm doing now](http://kevinolega.com/now)
 
