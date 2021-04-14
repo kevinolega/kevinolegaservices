@@ -1,0 +1,13 @@
+# Site settings
+title: KEVIN OLEGA SERVICES
+tag_text: kevin olega
+description: kevin olega homepage
+url: "https://kevinolega.com"
+baseurl:
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+permalink: pretty 
+exclude: ["README.md"]
