@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: media
+title: Media
 date: 2020-11-11 09:58
 permalink: /media/ 
 author: Kevin Olega 
