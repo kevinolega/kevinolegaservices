@@ -1,13 +1,11 @@
-# Site settings
 title: KEVIN OLEGA SERVICES
-tag_text: kevin olega
-description: kevin olega services
-url: "https://kevinolega.com"
-baseurl:
+author: Kevin Olega
+email: kevinolegaservices@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Turn your ideas into reality
 
-font-awesome-include: true # make this false if you don't need font-awesome
+twitter_username: kevinolega
+github_username:  kevinolega
 
-# Build settings
-markdown: kramdown
-permalink: pretty 
-exclude: ["README.md"]
+sass:
+    style: compressed

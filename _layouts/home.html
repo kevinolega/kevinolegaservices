@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center orange-text">{{ site.title }}</h1>
+      <div class="row center">
+        <h5 class="header col s12 light">{{ content }}</h5>
+      </div>
+        
+      <div class="row center">
+        <a href="https://businessideasph.com/contact" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>
+      </div>
+      <br><br>
+
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
+            <h5 class="center">Free Your Time</h5>
+
+            <p class="light">Instead of doing everything yourself, you can count on someone you can trust do most of the heavy lifting for you.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
+            <h5 class="center">Reasonably Affordable</h5>
+
+            <p class="light">We work from the Philippines so the cost of hiring and maintaining us is reasonably affordable.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
+            <h5 class="center">Easier to work with</h5>
+
+            <p class="light">I have worked as a customer service representative, writer, virtual assistant and project manager. I will be able to understand your process easily and help you make things better</p>
+          </div>
+        </div>
+      </div>
+    </div>
+      <section>
+        <h5>About:</h5>
+        <p> Kevin is a top rated Upwork Project Manager.<img src="{{ site.url }}/images/Kevin.jpg" alt="Kevin" width="250" height="250" align="right"></p>
+        <p>I work as a project manager for clients who are extremely busy and want to maximize their time, and I get projects moving on their behalf to completion.</p>
+        <p>My first project management job involved allowing my client to free up half of his workday so he can spend time more time with his dog, practicing yoga and martial arts, and tending to his farm. I received instructions, responded to clients, coordinated with his multi-cultural team of freelancers, inspected the output, and we were able to complete full translations of affiliate products from English to Spanish, maintain one of the largest dating information products online, provide 24 hour customer service to clients, and implement a client’s social media strategy</p>
+        <p>I also have the following experience:</p>
+        <ul>
+          <li>• I worked as a virtual assistant and QA before taking over a communications and project manager role.</li>• I worked as a ghost writer and blogger on different topics that include personal development, finance, education, tech, productivity, creativity and lifehacks as well as health and fitness topics.</li>
+          <li>• I worked as a customer service and tech support representative for one of the biggest service providers in the United States, and have won many awards for my outstanding performance.</li>
+          <li>• I worked as a B2B and B2C sales representative in outsourcing, web development, real estate, financial services, and firearms.</li>
+          </ul>
+      </section>
+      <section>
+      <h5>Schedule a Meeting</h5>
+      <p>The best way to evaluate our services is by talking to me</p>
+      <!-- Calendly inline widget begin -->
+<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
+<!-- Calendly inline widget end -->
+    </section>
+      <section>
+        <h5>Services:</h5>
+        <p>Project Manager</p>
+        <p>Communications Manager</p>
+        <p>Content Marketing</p>
+      </section>    
+      <section>
+        <h5>Testimonials:</h5>
+        <p>Upwork Client Testimonials.</p>
+        <p><img src="{{ site.url }}/images/Upwork Testimonials.png" alt="Upwork Client Testimonials" width="500" height="600"></p>
+        
+        <p>More Coming Soon...</p>
+      </section>
+    </div>
+    <div style="background: #ddd">
+    <div class="container last-post">
+    <section>
+        <h5>Because Ideas Are Only Valuable When Implemented:</h5>
+        <ul class="collection">
+        {% for post in site.posts %}
+        <li class="collection-item avatar">
+          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          <div class="date-post">{{ post.date | date: date_format }}</div>
+          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <p>
+             {{ post.content | truncatewords: 9 }}
+          </p>
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+        </ul>  
+    </section>
+    </div>
+</div>
+
+  </div>
