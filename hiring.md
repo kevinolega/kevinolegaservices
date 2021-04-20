@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: I’m Hiring
+title: Hiring
 permalink: /hiring/ 
 author: Kevin Olega 
 --- 

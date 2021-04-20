@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Manager
+title: Project Management
 description: PM Experience
 permalink: /pm
 ---

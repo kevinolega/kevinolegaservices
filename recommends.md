@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kevin recommends
+title: recommendations
 permalink: /recommends
 author: Kevin Olega
 page.date: 2012-10-10 08:08:26

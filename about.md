@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about kevin olega
+title: about
 permalink: /about/
 author: Kevin Olega
 page.date: 2012-10-10 08:08:26
