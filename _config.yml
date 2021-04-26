@@ -10,3 +10,8 @@ github_username: kevinolega
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
+
+gems: [jekyll-seo-tag, jekyll-redirect-from ]
