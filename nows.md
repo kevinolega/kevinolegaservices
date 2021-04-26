@@ -3,6 +3,7 @@ layout: page
 title: kevin olega now
 description: See what exactly Kevin is doing now. This page gets updated regularly.
 permalink: /now
+redirect_to: https://olega.org/now
 ---
 Here's what I'm doing now.
 
