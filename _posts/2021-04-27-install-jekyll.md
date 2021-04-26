@@ -6,6 +6,18 @@ Tags: [ services, blog ]
 permalink: jekyll
 author: Kevin Olega 
 --- 
+Jekyll is a static website generator.
+
+Jekyll uses less resources to run your website.
+
+As a consequence, a Jekyll blog costs less money to maintain than a regular Wordpress blog.
+
+You only need to pay for the domain.
+
+We can host your files on GitHub pages.
+
+We can build a Jekyll blog for you.
+
 ## INITIAL TASKS 
 
 - Create Git Repository
