@@ -32,19 +32,6 @@ author: Kevin Olega
 - Install Google Analytics
 - Install Google Ads
 
-
-## BASE RESOURCES:
-
-BUILD TIME: 16.5 hours
-BUILD COST: ₱8,500
-
-
-## FIX POST IMAGES:
-
-OPTION 1: You do the work. Free. We will provide a guide.
-
-OPTION 2: We do the work. ₱100/post.
-
 ## OTHER TASKS
 
 - Create Password Manager
@@ -55,17 +42,27 @@ OPTION 2: We do the work. ₱100/post.
 - Create Google Adsense
 - Security Documentation
 
-₱3,500
-
-
 ## JEKYLL TRAINING:
 
 - Needed Tools.
 - How to create a post.
 - How to create a page.
 
-₱1,500.
+## PROJECT RESOURCES:
 
-## ADDITIONAL CUSTOMIZATION
+BUILD TIME: 27 hours.
+BUILD COST: ₱15,039.
 
-₱557/hour
+DOLLAR COST: $337
+
+Client shouders fund transfer fees.
+
+## FIX POST IMAGES:
+
+OPTION 1: You do the work. Free. We will provide a guide.
+
+OPTION 2: We do the work. ₱100/post.
+
+## ADDITIONAL WORK
+
+₱557/hour or $12/hour
