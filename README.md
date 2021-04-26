@@ -1,20 +1,14 @@
-# Jekyll Materialize Starter Template v0.1
+# Creative Theme for Jekyll
 
-*A Site Starter Materialize Templates.
+A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-The theme is a fork of the [minima][1]
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
+The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
 
-![minima theme preview](/screenshot.png)
+See it live in action at <https://volny.github.io/creative-theme-jekyll/>
 
+## To use the Creative Theme template in your project
 
-# License
+- Start by adding your info in `_config.yml`
+- In `_layouts/front.html` reorder or remove section as you prefer.
 
-The theme is available as open source under the terms of the [MIT License][2].
-
-[Materialize][3] a  modern responsive front-end framework based on Material Design
-
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
