@@ -1,6 +1,6 @@
 ---
 layout: page
-title: kevin olega's past work
+title: KEVIN OLEGA'S PAST WORK
 description: this is Kevin Olega's past work.
 permalink: /xp
 ---
@@ -20,9 +20,9 @@ My skype ID is kevinolega.
 
 If you have any further project ideas or tasks in the future, I have included a summary of my information below.
 
-### past work - short version
+### PAST WORK - SHORT VERSION
 
-I'm a [top rated Upwork Project Manager]({{ site.url }}/images/Kevin Top Rated Upwork.png).
+I'm a [top rated Upwork Project Manager]({{ site.url }}/img/Kevin Top Rated Upwork.png).
 
 I also have the following experience, which may be relevant to what you are looking for:
 
@@ -33,9 +33,9 @@ I also have the following experience, which may be relevant to what you are look
 
 Thank you for reading this far.
 
-### skills
+### SKILLS
 
-**Project Management** 
+**PROJECT MANAGEMENT** 
 
 - I take the project specifications and information we are provided and we are able to build websites and online marketing campaigns.
 - I work with clients who are too busy to answer questions and make do with the limited information that we have and make it work somehow.
@@ -50,108 +50,111 @@ Projects I’ve handled include:
 - Day to day operations support
 - Customer service and tech support 
 
-**Quality Assurance**
+**QUALITY ASSURANCE**
 
 I have an eye for detail and I inspect websites, apps, content or whatever output the client needs accomplished and I coordinate the corrections with the development or technical team and I am often involved in the troubleshooting process.
 
-**Communications Management**
+**COMMUNICATIONS MANAGEMENT**
 
 - I can streamline your communication by becoming the primary point of contact for all your internal and external communication.
 - I possess native level English skills for speaking, writing and listening.
 - I am familiar with several CRM systems and have experience with basic CRM related tasks.
 
-**Virtual Assistant**
+**VIRTUAL ASSISTANT**
 
 - I can login and pilot your key accounts so you no longer need to login yourself.
 - I can take charge and cover data entry, scheduling, reminders, emails, and management or any task that you would prefer to not do yourself.
 - I can also help with basic marketing and technical tasks as well as other random tasks.
 
-**Writer:**
+**WRITER:**
 
 - I am an experienced writer so I am confident that I will be able to convey clear instructions to the team and use screenshots and screencasts whenever necessary. 
 - My writing skills have been useful in maximizing the output of technical teams who have members with limited communication skills.
 
 [Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing).
 
-### tools
+### TOOLS AND TECHNOLOGIES
 
 Here are the tools and technology that I am using or have used in the past:
 
-**Project Management:**
+**PROJECT MANAGEMENT:**
 
+- Basecamp 
 - Asana
 - Trello 
-- Basecamp 
 
-**Communication:**
+**COMMUNICATION:**
 
 - Slack
 - Skype
 - Zoom
 
-**Email Marketing:**
+**EMAIL MARKETING:**
 
 - Mailchimp
+- SendFox
 - Aweber
 - Get Response
 - OctoMail
 
-**Customer Service and Tech Support Ticket Tools:**
+**CUSTOMER SERVICE AND TECH SUPPORT TICKET TOOLS:**
 
 - ZenDesk
 - Freshdesk
 - HelpScout
 - CustomerHub
 
-**Transcription:**
+**TRANSCRIPTION:**
+
 - Speechpad
 - Temi
 
-**Content Management:**
+**CONTENT MANAGEMENT:**
 
 - Wordpress
 - Kajabi
 - Squarespace
 
-**File Management:**
+**FILE MANAGEMENT:**
+
 - Dropbox
 - Google Drive
 
-**Code Repository:**
+**CODE REPOSITORY:**
 
 - GitHub
 
-**Social Media:**
+**SOCIAL MEDIA:**
 
 - Facebook
 - Instagram
 - LinkedIn
 - YouTube
 
-**eCommerce:**
+**ECOMMERCE:**
 
 - Shopify
 
-**Automation:**
+**AUTOMATION:**
 
 - Zapier
 - IFTTT
 
 As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone and Android for work and will be able to assist your team using these systems. 
 
-[Here is a screenshot of the specifications of my work computer]({{ site.url }}/images/Macbook Air Specifications.png).
+[Here is a screenshot of the specifications of my work computer]({{ site.url }}/img/Macbook Air Specifications.png).
 
 I can configure my system to run on triple monitor and increase my internet connection to match your required specifications. 
 
 If you require a specific tool or software that I failed to include in my message, I can learn and master said tool within a day or two.
 
-### schedule
+### SCHEDULE
 
 I am committed to being able to provide the necessary support that your team needs so I will be logging in consistently at the agreed upon work hours. 
 
 I can adjust my schedule (currently 8am-6pm EST), terms and rates to match your requirements.
 
-### new projects
+### NEW PROJECTS
 
 When we work on a new project, I recommend that we begin with a small test task then you can proceed to hire me for more small assignments. 
 
@@ -159,13 +162,13 @@ We can expand the scope of my agreement if you are satisfied with my work.
 
 I propose that we begin with a range of 5-10 hours a week so you can try my services risk free. 
 
-### testimonials
+### TESTIMONIALS
 
-[Top Rated Upwork Profile]({{ site.url }}/images/Kevin Upwork Profile.png).
+[TOP RATED UPWORK PROFILE]({{ site.url }}/img/Kevin Upwork Profile.png).
 
-[Client Testimonials]({{ site.url }}/images/Upwork Testimonials.png).
+[CLIENT TESTIMONIALS]({{ site.url }}/img/Upwork Testimonials.png).
 
-### what now?
+### WHAT NOW?
 
 Like I said, the best way to evaluate me for the position is by talking to me. 
 
