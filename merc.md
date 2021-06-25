@@ -77,72 +77,25 @@ I have an eye for detail and I inspect websites, apps, content or whatever outpu
 
 Here are the tools and technology that I am using or have used in the past:
 
-**PROJECT MANAGEMENT:**
+I use Basecamp, Asana, and Trello for **project management**.
 
-- Basecamp 
-- Asana
-- Trello 
+I use Slack, Skype, and Zoom for **communication**.
 
-**COMMUNICATION:**
+I use Mailchimp, SendFox, Aweber, Get Response, and OctoMail for **email marketing**.
 
-- Slack
-- Skype
-- Zoom
+I use **customer service and tech support ticket tools**.
 
-**EMAIL MARKETING:**
+I use Wordpress, Kajabi, Squarespace and Jekyll for **content management**.
 
-- Mailchimp
-- SendFox
-- Aweber
-- Get Response
-- OctoMail
+I use Final Cut Pro and iMovie for video editing.
 
-**CUSTOMER SERVICE AND TECH SUPPORT TICKET TOOLS:**
+[CLICK HERE CHECK MY TOOLS]({{ site.url }}/tools)
 
-- ZenDesk
-- Freshdesk
-- HelpScout
-- CustomerHub
+As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone, and Android for work and will be able to assist your team using these systems. 
 
-**TRANSCRIPTION:**
+[Here is a screenshot of the specifications of my work computer]({{ site.url }}/img/MB-Pro-2015.png).
 
-- Speechpad
-- Temi
-
-**CONTENT MANAGEMENT:**
-
-- Wordpress
-- Kajabi
-- Squarespace
-
-**FILE MANAGEMENT:**
-
-- Dropbox
-- Google Drive
-
-**CODE REPOSITORY:**
-
-- GitHub
-
-**SOCIAL MEDIA:**
-
-- Facebook
-- Instagram
-- LinkedIn
-- YouTube
-
-**ECOMMERCE:**
-
-- Shopify
-
-**AUTOMATION:**
-
-- Zapier
-- IFTTT
-
-As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone and Android for work and will be able to assist your team using these systems. 
-
-[Here is a screenshot of the specifications of my work computer]({{ site.url }}/img/Macbook Air Specifications.png).
+[Here is a screenshot of the specifications of my travel computer]({{ site.url }}/img/Macbook Air Specifications.png).
 
 I can configure my system to run on triple monitor and increase my internet connection to match your required specifications. 
 
