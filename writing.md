@@ -150,3 +150,12 @@ Provides support to English students who prefer to hire Filipino teachers.
 
 DELIVERED: Research and blog articles.
 
+
+## CONTACT KEVIN
+
+[CONTACT](https://olega.org/contact)
+
+[HOME]({{ site.url }})
+
+
+
