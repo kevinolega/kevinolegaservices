@@ -4,8 +4,6 @@ title: KEVIN OLEGA'S PAST WORK
 description: this is Kevin Olega's past work.
 permalink: xp
 ---
-{% include schedule.html %}
-{% include skype.html %}
 {% include intro.html %}
 {% include skill-intro.html %}
 {% include project-management.html %}
@@ -83,16 +81,5 @@ I propose that we begin with a range of 5-10 hours a week so you can try my serv
 
 ### WHAT NOW?
 
-Like I said, the best way to evaluate me for the position is by talking to me. 
-
-Here's my available schedule:
-
-<!-- Calendly inline widget begin -->
-<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
-<!-- Calendly inline widget end -->
-
-<a href="https://calendly.com/kevinolegaservices/60min" class="button">SCHEDULE A CALL</a>
-
-My skype ID is kevinolega.
-
-[Click here to call me on Skype](skype:kevinolega?call)
+{% include schedule.html %}
+{% include skype.html %}
