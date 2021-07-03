@@ -2,13 +2,13 @@
 layout: page
 title: KEVIN OLEGA'S PAST WORK
 description: this is Kevin Olega's past work.
-permalink: /xp
+permalink: xp
 ---
 {% include schedule.html %}
 {% include skype.html %}
 {% include intro.html %}
 {% include skill-intro.html %}
-% include project-management.html %}
+{% include project-management.html %}
 
 **QUALITY ASSURANCE**
 
