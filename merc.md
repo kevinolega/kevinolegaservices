@@ -4,51 +4,11 @@ title: KEVIN OLEGA'S PAST WORK
 description: this is Kevin Olega's past work.
 permalink: /xp
 ---
-The best way to evaluate me for the position is by talking to me. 
-
-Here's my available schedule.
-
-<!-- Calendly inline widget begin -->
-<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
-<!-- Calendly inline widget end -->
-
-<a href="https://calendly.com/kevinolegaservices/60min" class="button">SCHEDULE A CALL</a>
-
-My skype ID is kevinolega.
-
-[Click here to call me on Skype](skype:kevinolega?call)
-
-If you have any further project ideas or tasks in the future, I have included a summary of my information below.
-
-### PAST WORK - SHORT VERSION
-
-I'm a [top rated Upwork Project Manager]({{ site.url }}/img/Kevin Top Rated Upwork.png).
-
-I also have the following experience, which may be relevant to what you are looking for:
-
-- I worked as a virtual assistant and QA before taking over a communications and project manager role.
-- I worked as a ghost writer and blogger on different topics that include personal development, finance, education, tech, productivity, creativity and lifehacks as well as health and fitness topics.
-- I worked as a customer service and tech support representative for one of the biggest service providers in the United States, and have won many awards for my outstanding performance.
-- I worked as a B2B and B2C sales representative in outsourcing, web development, real estate, financial services, and firearms.
-
-Thank you for reading this far.
-
-### SKILLS
-
-**PROJECT MANAGEMENT** 
-
-- I take the project specifications and information we are provided and we are able to build websites and online marketing campaigns.
-- I work with clients who are too busy to answer questions and make do with the limited information that we have and make it work somehow.
-- I work with an international team and many of our team members don’t speak English as a first language so I have to be very specific with the way I communicate and provide visual representations of the instructions like screenshots and video.
-
-Projects I’ve handled include:
-
-- Web design and Development
-- Multimedia production and post production
-- Digital Assets translation
-- Systems integration
-- Day to day operations support
-- Customer service and tech support 
+{% include schedule.html %}
+{% include skype.html %}
+{% include intro.html %}
+{% include skill-intro.html %}
+% include project-management.html %}
 
 **QUALITY ASSURANCE**
 
