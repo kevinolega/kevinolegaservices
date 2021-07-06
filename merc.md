@@ -14,3 +14,4 @@ permalink: xp
 {% include social-media-manager.html %}
 {% include email-marketing-service.html %}
 {% include accountability-partner.html %}
+{% include resume-link.html %}
