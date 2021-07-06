@@ -6,26 +6,7 @@ permalink: xp
 ---
 {% include skill-intro.html %}
 {% include project-management.html %}
-
 {% include quality-assurance.html %}
-
-
 {% include communications-management.html %}
-
 {% include virtual-assistant.html %}
-
 {% include professional-writer.html %}
-{% include website-administrator.html %}
-{% include social-media-manager.html %}
-{% include email-marketing-service.html %}
-{% include accountability-partner.html %}
-{% include resume-link.html %}
-{% include tools-technologies-summary.html %}
-{% include freelance-schedule.html %}
-{% include new-freelance-projects.html %} 
-{% include upwork-client-testimonials.html %}
-
-### WHAT NOW?
-
-{% include schedule.html %}
-{% include skype.html %}
