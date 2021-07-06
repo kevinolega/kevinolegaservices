@@ -13,3 +13,4 @@ permalink: xp
 {% include website-administrator.html %}
 {% include social-media-manager.html %}
 {% include email-marketing-service.html %}
+{% include accountability-partner.html %}
