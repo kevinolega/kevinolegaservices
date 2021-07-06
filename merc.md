@@ -18,3 +18,4 @@ permalink: xp
 {% include tools-technologies-summary.html %}
 {% include freelance-schedule.html %}
 {% include new-freelance-projects.html %} 
+{% include upwork-client-testimonials.html %}
