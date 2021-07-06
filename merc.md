@@ -19,3 +19,7 @@ permalink: xp
 {% include freelance-schedule.html %}
 {% include new-freelance-projects.html %} 
 {% include upwork-client-testimonials.html %}
+### WHAT NOW?
+
+{% include schedule.html %}
+{% include skype.html %}
