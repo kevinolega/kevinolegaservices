@@ -11,3 +11,4 @@ permalink: xp
 {% include virtual-assistant.html %}
 {% include professional-writer.html %}
 {% include website-administrator.html %}
+{% include social-media-manager.html %}
