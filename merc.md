@@ -17,3 +17,4 @@ permalink: xp
 {% include resume-link.html %}
 {% include tools-technologies-summary.html %}
 {% include freelance-schedule.html %}
+{% include new-freelance-projects.html %} 
