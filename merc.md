@@ -4,13 +4,15 @@ title: KEVIN OLEGA'S PAST WORK
 description: this is Kevin Olega's past work.
 permalink: xp
 ---
-{% include intro.html %}
 {% include skill-intro.html %}
 {% include project-management.html %}
 
 **QUALITY ASSURANCE**
 
-I have an eye for detail and I inspect websites, apps, content or whatever output the client needs accomplished and I coordinate the corrections with the development or technical team and I am often involved in the troubleshooting process.
+I have an eye for detail. 
+
+I inspect websites, apps, content or whatever output the client needs accomplished.
+I coordinate the corrections with the development or technical team and I am often involved in the troubleshooting process.
 
 **COMMUNICATIONS MANAGEMENT**
 
