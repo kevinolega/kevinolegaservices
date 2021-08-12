@@ -23,4 +23,4 @@ permalink: xp
 ### WHAT NOW?
 
 {% include schedule.html %}
-{% include skype.html %}
+{% include zoom.html %}
