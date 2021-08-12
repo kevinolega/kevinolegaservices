@@ -21,4 +21,6 @@ permalink: xp
 {% include new-freelance-projects.html %} 
 {% include upwork-client-testimonials.html %}
 ### WHAT NOW?
-Please contact me on Upwork.
+
+[Please contact me on Upwork](https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/).
+
