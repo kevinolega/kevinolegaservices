@@ -21,5 +21,4 @@ permalink: xp
 {% include new-freelance-projects.html %} 
 {% include upwork-client-testimonials.html %}
 ### WHAT NOW?
-{% include schedule.html %}
-{% include zoom.html %}
+Please contact me on Upwork.
