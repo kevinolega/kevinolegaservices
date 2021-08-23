@@ -5,19 +5,15 @@ date: 2021-08-18 19:43
 permalink: offer-08 
 author: Kevin Olega 
 --- 
-
-
-
-
 You're highly intelligent.
 
 You're creative.
 
-You have average levels of conscientiousness.
+You have average or above average levels of conscientiousness.
 
 Your levels of industriousness is low to average.
 
-One of the biggest problems that you experience is you quickly lose interest in routine work.
+You notice that one of your biggest problems is you lose interest quickly in routine work.
 
 You'd like to write new marketing copy.
 
