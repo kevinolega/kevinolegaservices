@@ -150,6 +150,9 @@ Provides support to English students who prefer to hire Filipino teachers.
 
 DELIVERED: Research and blog articles.
 
+## WRITING SAMPLES
+
+[MORE GHOST WRITING SAMPLES](https://goo.gl/Nw7YFx).
 
 ## CONTACT KEVIN
 
