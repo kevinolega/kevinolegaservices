@@ -2,7 +2,7 @@
 layout: page
 title: job openings
 description: Current Job Openings
-permalink: /jobs
+permalink: /hiring
 ---
 
 
@@ -21,6 +21,7 @@ permalink: /jobs
 - Transcriptionist (Filipino and English)
 - Writer
 - General VA
+- Data Entry VA
 
 [Training Services Side Project](https://docs.google.com/document/d/14O6miuZ5UxgW2udDbdV7Tfm6DkvyoPfPbUWwcnbx4VM/edit?usp=sharing)
 
