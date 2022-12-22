@@ -20,8 +20,6 @@ permalink: xp
 {% include freelance-schedule.html %}
 {% include new-freelance-projects.html %} 
 {% include upwork-client-testimonials.html %}
-### WHAT NOW?
-
-[Please contact me on Upwork](https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/).
-
+<h3>WHAT NOW?</h3>
+<p><a href="https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/">Contact me on Upwork</a>.</p>
 {% include zoom.html %}
