@@ -8,15 +8,23 @@ author: Kevin Olega
 
 **PROJECT MANAGEMENT:**
 
+- ClickUp
 - Basecamp 
 - Asana
 - Trello 
 
+**DESIGN AND DEVELOPMENT**
+
+- Miro
+- Figma
+
 **COMMUNICATION:**
 
 - Slack
+- Discord
 - Skype
 - Zoom
+- Google Meet
 
 **EMAIL MARKETING:**
 
@@ -43,16 +51,19 @@ author: Kevin Olega
 - Wordpress
 - Kajabi
 - Squarespace
+- Jekyll
 
 **DOCUMENT MANAGEMENT:**
 
-- Google Docs, Sheets, and Slide.
+- Google Drive: Docs, Sheets, and Slide.
 - Apple Pages, Numbers, and Keynote.
+- Dropbox
 
 **IMAGE MANAGEMENT:**
 
 - Pixelmator
 - Canva
+- Procreate
 - Adobe Spark
 
 **FILE MANAGEMENT:**
@@ -72,9 +83,13 @@ author: Kevin Olega
 **SOCIAL MEDIA:**
 
 - Facebook
+- Twitter
 - Instagram
 - LinkedIn
+- TikTok
 - YouTube
+- Pinterest
+- Reddit
 
 **ECOMMERCE:**
 
@@ -84,6 +99,7 @@ author: Kevin Olega
 
 - Zapier
 - IFTTT
+- QR
 
 
 As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone, and Android for work and will be able to assist your team using these systems. 
