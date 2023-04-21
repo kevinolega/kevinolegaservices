@@ -6,6 +6,8 @@ permalink: xp
 ---
 {% include intro-video-general.html %}
 {% include skill-intro.html %}
+{% include professional-summary-video.html %}
+{% include project-management-video.html %}
 {% include project-management.html %}
 {% include quality-assurance.html %}
 {% include communications-management.html %}
@@ -21,6 +23,8 @@ permalink: xp
 {% include freelance-schedule.html %}
 {% include new-freelance-projects.html %} 
 {% include upwork-client-testimonials.html %}
+{% include personal-trivia-video.html %}
+
 <h3>WHAT NOW?</h3>
 <p><a href="https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/">Contact me on Upwork</a>.</p>
 {% include zoom.html %}
