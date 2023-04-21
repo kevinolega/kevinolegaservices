@@ -16,6 +16,7 @@ permalink: xp
 {% include email-marketing-service.html %}
 {% include accountability-partner.html %}
 {% include resume-link.html %}
+{% include personality-tests-link.html %}
 {% include tools-technologies-summary.html %}
 {% include freelance-schedule.html %}
 {% include new-freelance-projects.html %} 
