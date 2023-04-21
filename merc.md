@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KEVIN OLEGA'S PAST WORK
+title: "No Fluff, Just Results: Kevin's Work Experience and Your Path to Progress"
 description: this is Kevin Olega's past work.
 permalink: xp
 ---
