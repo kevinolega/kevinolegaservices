@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "No Fluff, Just Results: Kevin's Work Experience and Your Path to Progress"
-description: this is Kevin Olega's past work.
+description: Unlock your business potential with Kevin's no-nonsense approach to project management and virtual assistance. Embrace success, real progress, and tangible results.
 permalink: xp
 ---
 {% include intro-video-general.html %}
