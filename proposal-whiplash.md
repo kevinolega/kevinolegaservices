@@ -1,6 +1,7 @@
 --- 
 layout: page
 title: Whiplash Tattoo Email Marketing Draft
+description: "Enhance Your Tattoo Studio's Digital Presence - Whiplash Tattoo Email Marketing Strategy: Dive into our comprehensive proposal designed specifically for Whiplash Tattoo Studio. Explore how an integrated email marketing approach, with landing pages, a compelling lead magnet, and an engaging email series, can boost client engagement and retention. The proposal outlines a budget-friendly tech stack, including SendFox and TidyCal, aimed to optimize your online interactions and bookings. Learn how to leverage these powerful tools to elevate your digital marketing and create a lasting impact in your client community."
 date: 2023-05-12 16:29
 permalink: whiplash 
 author: Kevin Olega 
@@ -19,6 +20,7 @@ author: Kevin Olega
    1. [Welcome Email Series](#welcome-email-series)
    2. [Follow-Up Email Series](#follow-up-email-series)
 4. [Book An Appointment Page](#book-an-appointment-page)
+5. [Tech Stack](#tech-stack)
 
 ## INTRODUCTION
 
@@ -304,4 +306,14 @@ Whiplash Tattoo | BF Homes Parañaque City | Contact Us"
 
 Remember, this page should be simple, user-friendly, and provide a seamless booking experience. Including a calendar tool for selecting the preferred date and time could enhance usability. Also, consider adding some visuals like pictures of your artists at work or your shop's interior to create a more engaging experience.
 
+## TECH-STACK
 
+We'll be using the following tools:
+
+1. **SendFox.com**: This will serve as our landing page and email marketing tool. It's an excellent platform that enables you to create simple, beautiful landing pages to showcase your services. The free tier of SendFox is robust enough to get you started, allowing you to set up your landing page and start capturing leads without any upfront investment.
+
+SendFox also provides email marketing services. Even on their free tier, you can set up automated email sequences to engage your audience at specific intervals. This helps you keep your potential clients informed and engaged about your services, all at no initial cost.
+
+2. **TidyCal.com**: This will be our booking tool. TidyCal allows you to manage your appointments, meetings, and events efficiently. You can share your availability with your clients, allowing them to book a time slot that works best for them. Importantly, the free tier of TidyCal is robust and user-friendly, providing enough features to streamline your booking process without any financial commitment.
+
+TidyCal integrates with most calendars, which helps you avoid scheduling conflicts. It also provides automated reminders, ensuring that your clients are always aware of their appointments. 
