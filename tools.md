@@ -111,3 +111,5 @@ As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, i
 I can configure my system to run on triple monitor and increase my internet connection to match your required specifications. 
 
 If you require a specific tool or software that I failed to include in my message, I can learn and master said tool within a day or two.
+
+<p><a href="https://olega.org/now"class="button"></a></p>
