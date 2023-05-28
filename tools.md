@@ -112,4 +112,4 @@ I can configure my system to run on triple monitor and increase my internet conn
 
 If you require a specific tool or software that I failed to include in my message, I can learn and master said tool within a day or two.
 
-<p><a href="https://olega.org/now"class="button"></a></p>
+<p><a href="https://olega.org/now"class="button">WHAT I'M DOING NOW</a></p>
