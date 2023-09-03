@@ -128,8 +128,7 @@ paste email: Add the email we just sent out.
 <a href="#toc">Back to Table of Contents</a> <!-- Back to Table of Contents link -->
 
 
-
- <h2 id="customer-service">>Customer Service Agent for Voicemail</h2>
+ <h2 id="customer-service">Customer Service Agent for Voicemail</h2>
   <p>I need someone to handle a client's customer service calls.</p>
   <p>The client is involved in real estate investments and has online training courses and consulting services.</p>
   <p>There's a vast amount of things that one needs to know to represent us well, but there's not enough volume of calls to put together a detailed manual.</p>
@@ -377,6 +376,8 @@ paste email: Add the email we just sent out.
   </ol>
 
   <p>This is a foundational outline; depending on your agency’s specifics, you may need to add additional steps or sections.</p>
+
+<a href="#toc">Back to Table of Contents</a> <!-- Back to Table of Contents link -->
 
 
 <p>Take your website to the next level with our expert web development team. <a href="https://kevinolega.com/xp">Reach out now for a no-obligation consultation</a>.</p>
