@@ -6,7 +6,7 @@ permalink: sop-samples
 author: Kevin Olega 
 --- 
 
-  <h2>Table of Contents</h2>
+  <h2 id="toc">Table of Contents</h2>
 
   <ul>
     <li><a href="#project-workflow">Project-Workflow: Organizing and Streamlining Project Workflow with Asana, Slack, and Google Shared Drive</a></li>
@@ -51,6 +51,9 @@ author: Kevin Olega
 </ol>
 
 <p>By following this streamlined workflow, the team can improve communication, reduce confusion, and enhance the efficiency of project completion.</p>
+
+<a href="#toc">Back to Table of Contents</a> <!-- Back to Table of Contents link -->
+
 
 
 <h2 id="broadcasting-emails">>Broadcasting, Rewriting, and Sending Emails to Unopens in Kartra Using Chat GPT</h2>
@@ -119,8 +122,11 @@ paste email: Add the email we just sent out.
 
 <p>Now you have a comprehensive guide on broadcasting, rewriting, and sending emails to unopens in Kartra using Chat GPT. Follow these steps to improve your email marketing strategy and engage with your audience effectively.</p>
 
+<a href="#toc">Back to Table of Contents</a> <!-- Back to Table of Contents link -->
 
- <h2 id="broadcasting-emails">>Customer Service Agent for Voicemail</h2>
+
+
+ <h2 id="customer-service">>Customer Service Agent for Voicemail</h2>
   <p>I need someone to handle a client's customer service calls.</p>
   <p>The client is involved in real estate investments and has online training courses and consulting services.</p>
   <p>There's a vast amount of things that one needs to know to represent us well, but there's not enough volume of calls to put together a detailed manual.</p>
@@ -192,3 +198,8 @@ paste email: Add the email we just sent out.
 
   <h4>Handling missed or rescheduled appointments:</h4>
   <p>"I apologize for any inconvenience caused by the missed or rescheduled appointment. Let's work together to find a suitable time slot. We appreciate your understanding and patience."</p>
+
+
+  <a href="#toc">Back to Table of Contents</a> <!-- Back to Table of Contents link -->
+
+  
