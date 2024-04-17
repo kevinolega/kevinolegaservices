@@ -23,7 +23,7 @@ filename: clickup-service.md
 
 ## ClickUp System Development Service Pricing
 
-### 1. Basic Plan: Ideal for Freelancers and Small Businesses
+### 1. Basic Plan: Ideal for Freelancers and Solopreneurs
 **Starting at $400**
 
 Perfect for freelancers and small businesses looking to streamline their project management processes without the complexity of larger setups.
