@@ -27,4 +27,3 @@ permalink: xp
 
 <h3>WHAT NOW?</h3>
 <p><a href="https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/">Contact me on Upwork</a>.</p>
-{% include zoom.html %}
