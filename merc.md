@@ -26,4 +26,5 @@ permalink: xp
 {% include personal-trivia-video.html %}
 
 <h3>WHAT NOW?</h3>
+<p>I only accept contracts through Upwork for security and convenience.</p>
 <p><a href="https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/">Contact me on Upwork</a>.</p>
