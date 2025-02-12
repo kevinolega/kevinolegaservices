@@ -5,7 +5,7 @@ description: Unlock your business potential with Kevin's no-nonsense approach to
 permalink: xp
 ---
 {% include intro-video-general.html %}
-{% include skill-intro.html %}
+{% include skill-intro-wp.html %}
 {% include professional-summary-video.html %}
 {% include project-management-video.html %}
 {% include project-management.html %}
@@ -17,7 +17,7 @@ permalink: xp
 {% include social-media-manager.html %}
 {% include email-marketing-service.html %}
 {% include accountability-partner.html %}
-{% include resume-link.html %}
+{% include resume-link-wp.html %}
 {% include personality-tests-link.html %}
 {% include tools-technologies-summary.html %}
 {% include freelance-schedule.html %}
