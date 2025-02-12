@@ -2,7 +2,7 @@
 layout: page
 title: "No Fluff, Just Results: Kevin's Work Experience and Your Path to Progress"
 description: Unlock your business potential with Kevin's no-nonsense approach to project management and virtual assistance. Embrace success, real progress, and tangible results.
-permalink: xp
+permalink: wp
 ---
 {% include intro-video-general.html %}
 {% include skill-intro-wp.html %}
