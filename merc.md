@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "No Fluff, Just Results: Kevin's Work Experience and Your Path to Progress"
-description: Unlock your business potential with Kevin's no-nonsense approach to project management and virtual assistance. Embrace success, real progress, and tangible results.
-permalink: xp
+title: "Kevin Olega | Project Manager for Web and Marketing Teams"
+description: "Work experience, skills, tools, and services for project management, operations, web delivery, QA, documentation, and remote team support."
+permalink: /xp/
 ---
 {% include intro-video-general.html %}
 {% include skill-intro.html %}
